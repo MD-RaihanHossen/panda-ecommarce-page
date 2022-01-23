@@ -18,3 +18,13 @@
     border-radius:5px;
     border: none;
 }
+
+li.hover-bg-raihan:hover{
+    background-color: #f04892;
+    border-radius: 5px;
+}
+li.hover-bg-raihan:visited{
+    background-color: #f04892;
+    border-radius: 5px;
+}
+
